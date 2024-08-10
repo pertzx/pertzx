@@ -1,6 +1,6 @@
 # Hello, my name is Pyerre and my nickname is P3rtzX 🤖
 
-<br>
+<hr>
 
 <ul>
   <h3>About Me 👾</h3>
