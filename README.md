@@ -11,6 +11,7 @@
   <li>Framework: VueJs</li>
   <li>I also like working with PHP</li>
   <li>I want to learn JAVA and React Native 👾</li>
+  <a href="https://pyerremarcio@gmail.com">Pyerremarcio@gmail.com</a>
 </ul>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6abd1ece-9442-47d5-8b25-2ed428667840/deploy-status)](https://app.netlify.com/sites/arena-jesus/deploys)
