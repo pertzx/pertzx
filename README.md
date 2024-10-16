@@ -1,28 +1,40 @@
 # Meus Stacks de Programação 🚀✨
 
 ## 🌐 Frontend
-[![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) **HTML**  
-[![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) **CSS**  
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) **JavaScript**  
-[![React.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactjs.org/) **React.js**  
-[![Tailwind CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg)](https://tailwindcss.com/) **Tailwind CSS** (futuro)
+| Tecnologia | Logotipo |
+|------------|----------|
+| **HTML**   | [![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) |
+| **CSS**    | [![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) |
+| **JavaScript** | [![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) |
+| **React.js** | [![React.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactjs.org/) |
+| **Tailwind CSS** | [![Tailwind CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg)](https://tailwindcss.com/) |
 
 ## 🔙 Backend
-[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)](https://nodejs.org/) **Node.js**  
-[![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg)](https://expressjs.com/) **Express.js** (futuro)  
-[![API](https://upload.wikimedia.org/wikipedia/commons/6/62/Restful-API-Icon.png)](https://restfulapi.net/) **APIs RESTful** (futuro)
+| Tecnologia | Logotipo |
+|------------|----------|
+| **Node.js** | [![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)](https://nodejs.org/) |
+| **Express.js** | [![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg)](https://expressjs.com/) |
+| **APIs RESTful** | [![API](https://upload.wikimedia.org/wikipedia/commons/6/62/Restful-API-Icon.png)](https://restfulapi.net/) |
 
 ## 🗄️ Banco de Dados
-[![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)](https://www.mongodb.com/) **MongoDB** (futuro)
+| Tecnologia | Logotipo |
+|------------|----------|
+| **MongoDB** | [![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)](https://www.mongodb.com/) |
 
 ## 📦 Controle de Versão
-[![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://git-scm.com/) **Git** (usando GitHub Desktop)
+| Tecnologia | Logotipo |
+|------------|----------|
+| **Git** | [![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://git-scm.com/) |
 
 ## 🔍 Testes
-[![Jest](https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg)](https://jestjs.io/) **Jest** (futuro)  
-[![React Testing Library](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://testing-library.com/docs/react-testing-library/intro/) **React Testing Library** (futuro)
+| Tecnologia | Logotipo |
+|------------|----------|
+| **Jest** | [![Jest](https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg)](https://jestjs.io/) |
+| **React Testing Library** | [![React Testing Library](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://testing-library.com/docs/react-testing-library/intro/) |
 
 ## 🌍 Deploy
-[![Heroku](https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg)](https://www.heroku.com/) **Heroku** (futuro)  
-[![Vercel](https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg)](https://vercel.com/) **Vercel** (futuro)  
-[![Railway](https://railway.app/favicon.ico)](https://railway.app/) **Railway** (futuro)
+| Tecnologia | Logotipo |
+|------------|----------|
+| **Heroku** | [![Heroku](https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg)](https://www.heroku.com/) |
+| **Vercel** | [![Vercel](https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg)](https://vercel.com/) |
+| **Railway** | [![Railway](https://railway.app/favicon.ico)](https://railway.app/) |
