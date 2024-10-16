@@ -1,40 +1,70 @@
 # Meus Stacks de Programação 🚀✨
 
 ## 🌐 Frontend
-| Tecnologia | Logotipo |
-|------------|----------|
-| **HTML**   | [![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) |
-| **CSS**    | [![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) |
-| **JavaScript** | [![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) |
-| **React.js** | [![React.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactjs.org/) |
-| **Tailwind CSS** | [![Tailwind CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg)](https://tailwindcss.com/) |
+<div align="center">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/>
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="60" height="60"/>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="60" height="60"/>
+  </a>
+</div>
 
 ## 🔙 Backend
-| Tecnologia | Logotipo |
-|------------|----------|
-| **Node.js** | [![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)](https://nodejs.org/) |
-| **Express.js** | [![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg)](https://expressjs.com/) |
-| **APIs RESTful** | [![API](https://upload.wikimedia.org/wikipedia/commons/6/62/Restful-API-Icon.png)](https://restfulapi.net/) |
+<div align="center">
+  <a href="https://nodejs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="60" height="60"/>
+  </a>
+  <a href="https://restfulapi.net/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Restful-API-Icon.png" alt="APIs RESTful" width="60" height="60"/>
+  </a>
+</div>
 
 ## 🗄️ Banco de Dados
-| Tecnologia | Logotipo |
-|------------|----------|
-| **MongoDB** | [![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)](https://www.mongodb.com/) |
+<div align="center">
+  <a href="https://www.mongodb.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
+  </a>
+</div>
 
 ## 📦 Controle de Versão
-| Tecnologia | Logotipo |
-|------------|----------|
-| **Git** | [![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://git-scm.com/) |
+<div align="center">
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+  </a>
+</div>
 
 ## 🔍 Testes
-| Tecnologia | Logotipo |
-|------------|----------|
-| **Jest** | [![Jest](https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg)](https://jestjs.io/) |
-| **React Testing Library** | [![React Testing Library](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://testing-library.com/docs/react-testing-library/intro/) |
+<div align="center">
+  <a href="https://jestjs.io/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="60" height="60"/>
+  </a>
+  <a href="https://testing-library.com/docs/react-testing-library/intro/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Testing Library" width="60" height="60"/>
+  </a>
+</div>
 
 ## 🌍 Deploy
-| Tecnologia | Logotipo |
-|------------|----------|
-| **Heroku** | [![Heroku](https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg)](https://www.heroku.com/) |
-| **Vercel** | [![Vercel](https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg)](https://vercel.com/) |
-| **Railway** | [![Railway](https://railway.app/favicon.ico)](https://railway.app/) |
+<div align="center">
+  <a href="https://www.heroku.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku" width="60" height="60"/>
+  </a>
+  <a href="https://vercel.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="60" height="60"/>
+  </a>
+  <a href="https://railway.app/">
+    <img src="https://railway.app/favicon.ico" alt="Railway" width="60" height="60"/>
+  </a>
+</div>
