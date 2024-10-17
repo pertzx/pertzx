@@ -1,6 +1,7 @@
 # Meus Stacks de Programação 🚀✨
 
 ## 🌐 Frontend
+<div id="teste"></div>
 <div align="center">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
@@ -71,3 +72,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pertzx/pertzx/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pertzx/pertzx/output/github-contribution-grid-snake.svg">
 </picture>
+
+<script>
+  var texto = 'oi';
+  setInterval(()=>{
+    document.getElementById('teste').innerText = texto;
+    texto = 'tudo bem';
+  }, 1000)
+</script>
