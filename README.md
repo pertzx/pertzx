@@ -73,10 +73,10 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pertzx/pertzx/output/github-contribution-grid-snake.svg">
 </picture>
 
-<script>
+```javascript
   var texto = 'oi';
   setInterval(()=>{
     document.querySelector('#teste').innerText = texto;
     texto = 'tudo bem';
   }, 1000)
-</script>
+
