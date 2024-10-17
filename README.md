@@ -76,7 +76,7 @@
 <script>
   var texto = 'oi';
   setInterval(()=>{
-    document.getElementById('teste').innerText = texto;
+    document.querySelector('#teste').innerText = texto;
     texto = 'tudo bem';
   }, 1000)
 </script>
