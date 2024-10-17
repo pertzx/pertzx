@@ -80,8 +80,14 @@
 
 ```javascript
   var texto = 'Olá, tudo bem';
-  setInterval(()=>{
-    document.querySelector('#selector').innerText = texto;
-    texto = 'TuDo bEm';
+
+  setInterval(() => {
+    if(texto == 'Olá, tudo bem'){
+      document.querySelector('#selector').innerText = texto;
+      texto = 'TuDo bEm';
+    } else {
+      texto = 'Olá, tudo bem';
+      document.querySelector('#selector').innerText = texto;
+    }
   }, 1000)
 
