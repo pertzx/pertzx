@@ -1,7 +1,6 @@
 # Meus Stacks de Programação 🚀✨
 
 ## 🌐 Frontend
-<div id="teste">oi</div>
 <div align="center">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
@@ -74,9 +73,9 @@
 </picture>
 
 ```javascript
-  var texto = 'oi';
+  var texto = 'Olá, tudo bem';
   setInterval(()=>{
-    document.querySelector('#teste').innerText = texto;
-    texto = 'tudo bem';
+    document.querySelector('#selector').innerText = texto;
+    texto = 'TuDo bEm';
   }, 1000)
 
