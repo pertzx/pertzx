@@ -3,7 +3,7 @@
 ## 🌐 Frontend
 <div align="center">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
+    <img style="border-radius: 10%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/>
