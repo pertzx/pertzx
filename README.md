@@ -11,7 +11,6 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=003FF76&color:FFF)](mailto:pyerremarcio098@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=003FF7&color:FFF)](https://www.linkedin.com/in/pertzx/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=003FF7&color:FFF)](https://www.instagram.com/1pertzin/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=003FF7&color:FFF)](https://www.instagram.com/1pertzin/)
 
 ## 🌐 Frontend
 <div align="center">
