@@ -13,18 +13,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=003FF7&color:FFF)](https://www.instagram.com/1pertzin/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=003FF7&color:FFF)](https://www.instagram.com/1pertzin/)
 
-<h3 align="left">My Stack ~</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-</div>
-
 ## 🌐 Frontend
 <div align="center">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
@@ -68,21 +56,13 @@
   </a>
 </div>
 
-## 🔍 Testes
-<div align="center">
-  <a href="https://jestjs.io/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="60" height="60"/>
-  </a>
-  <a href="https://testing-library.com/docs/react-testing-library/intro/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Testing Library" width="60" height="60"/>
-  </a>
-</div>
 
 ## 🌍 Deploy
 <div align="center">
-  <a href="https://www.heroku.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="Heroku" width="60" height="60"/>
+  <a href="https://www.netlify.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-plain.svg" alt="Netlify" width="60" height="60"/>
   </a>
+
   <a href="https://vercel.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="60" height="60"/>
   </a>
