@@ -66,9 +66,6 @@
   <a href="https://vercel.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="60" height="60"/>
   </a>
-  <a href="https://railway.app/">
-    <img src="https://railway.app/favicon.ico" alt="Railway" width="60" height="60"/>
-  </a>
 </div>
 
 <picture align="center" style="width: 100%;">
