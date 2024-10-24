@@ -53,7 +53,11 @@
   <a href="https://git-scm.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
   </a>
+  <a href="https://github.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+  </a>
 </div>
+
 
 
 ## 🌍 Deploy
