@@ -29,6 +29,9 @@
   <a href="https://tailwindcss.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="60" height="60"/>
   </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
+  </a>
 </div>
 
 ## 🔙 Backend
@@ -89,4 +92,3 @@
       document.querySelector('#selector').innerText = texto;
     }
   }, 1000)
-
