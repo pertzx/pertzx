@@ -13,7 +13,7 @@
 ### 🔗 Contato
 [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=003FF7&color=FFFFFF)](mailto:pyerremarcio098@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=003FF7&color=FFFFFF)](https://www.linkedin.com/in/pertzx/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=003FF7&color=FFFFFF)](https://www.instagram.com/1pertzin/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=003FF7&color=FFFFFF)](https://www.instagram.com/p3rtzxdev/)
 
 ---
 
@@ -48,34 +48,26 @@
 
 ## ✨ Projetos em destaque
 - **TreinAI** — Plataforma para gerenciar treinos / perfis de treinadores (Node.js, React, MongoDB).  
-  `https://github.com/SEU_USUARIO/TreinAI`  
-- **Meu Portfolio** — Site pessoal com projetos e contato. (Vercel + React)
-- **Projeto X** — Pequena descrição do que o projeto faz e tecnologias.
-
-> Coloque links diretos para cada repo e uma linha curta explicando o objetivo e tecnologias.
-
+  `https://github.com/pertzx/TreinAI`  
 ---
 
 ## 📈 Estatísticas do GitHub
-<!-- Substitua `SEU_USUARIO` pelo seu usuário GitHub -->
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO">
-    <img alt="Pyerre's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&count_private=true" />
+  <a href="https://github.com/pertzx">
+    <img alt="Pyerre's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pertzx&show_icons=true&theme=default&count_private=true" />
   </a>
 </div>
 
 <picture align="center" style="width:100%">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="contribuições" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pertzx/pertzx/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="contribuições" src="https://raw.githubusercontent.com/pertzx/pertzx/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
 
-## 👨‍💻 Código de exemplo
-Trecho simples que coloca texto alternando em um seletor — roda no navegador.
+## 👨‍💻
 
 ```javascript
-// Exemplo: alterna texto a cada segundo no elemento com id="selector"
 const textoPadrao = ['Olá, tudo bem', 'TuDo bEm'];
 let i = 0;
 setInterval(() => {
