@@ -55,7 +55,7 @@
 <div align="center">
   <a href="https://github.com/pertzx">
     <img alt="Pyerre's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pertzx&show_icons=true&theme=default&count_private=true" />
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pertzx&stats_format=bytes)
+    <img alt="Pyerre's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pertzx&stats_format=bytes" />
   </a>
 </div>
 
