@@ -55,10 +55,9 @@
 <div align="center">
   <a href="https://github.com/pertzx">
     <img alt="Pyerre's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pertzx&show_icons=true&theme=default&count_private=true" />
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pertzx&stats_format=bytes)
   </a>
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pertzx&stats_format=bytes)
 
 <picture align="center" style="width:100%">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pertzx/pertzx/output/github-contribution-grid-snake-dark.svg">
