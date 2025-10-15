@@ -58,6 +58,8 @@
   </a>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pertzx&stats_format=bytes)
+
 <picture align="center" style="width:100%">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pertzx/pertzx/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="contribuições" src="https://raw.githubusercontent.com/pertzx/pertzx/output/github-contribution-grid-snake.svg" />
